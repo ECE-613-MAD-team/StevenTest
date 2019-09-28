@@ -1,0 +1,4 @@
+1. Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses by Eric Risser, Pierre Wilmot, Connelly Barnes, Artomatix, University of Virginia
+2. Group Maximum Differentiation Competition: Model Comparison with Few Samples by Kede Ma, Zhengfang Duanmu, Zhou Wang, Fellow, IEEE, Qingbo Wu, Wentao Liu, Hongwei Yong, Hongliang Li, Senior Member, IEEE, and Lei Zhang, Fellow, IEEE
+3. Deep learning with python by FRANÇOIS CHOLLET
+4. Breaking Down Leon Gatys’ Neural Style Transfer in PyTorch https://towardsdatascience.com/breaking-down-leon-gatys-neural-style-transfer-in-pytorch-faf9f0eb79db https://github.com/halahup/NeuralStyleTransfer
